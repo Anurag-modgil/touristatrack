@@ -19,7 +19,7 @@ import { Error } from "./pages/Error";
 import { Delhi } from "./pages/locations/Delhi/Delhi";
 
 var count=1;
-const [count,setcount]=use
+const [count, setCount]=useState(0);
 function App() {
   return (
    
